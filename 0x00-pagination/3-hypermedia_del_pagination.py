@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Implement a get_hyper_index method with two args index with a None default
-value and page_size with a defualt value of 10 and returns a dictionary 
+value and page_size with a defualt value of 10 and returns a dictionary
 with key-value pairs
 """
 import csv
