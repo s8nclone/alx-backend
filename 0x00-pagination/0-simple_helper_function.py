@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Takes two integer arguments page and page_size and returns a 
+Takes two integer arguments page and page_size and returns a
 tuple of size two containing start and end index"
 """
 
