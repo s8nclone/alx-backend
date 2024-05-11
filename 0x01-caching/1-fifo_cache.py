@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" BasicCache module
+""" BasicCache module that implements a FIFO caching system
 """
 
 from base_caching import BaseCaching
